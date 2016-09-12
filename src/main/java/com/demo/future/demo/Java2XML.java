@@ -38,7 +38,7 @@ public class Java2XML {
 	public static void main(String[] args) {
 		try {
 			Java2XML j2x = new Java2XML();
-			System.out.println("正在生成 books.xml 文件...");
+			System.out.println("正在生成 books.xml 111文件...");
 			j2x.BuildXMLDoc();
 		} catch (Exception e) {
 			e.printStackTrace();
